@@ -1,0 +1,17 @@
+# Entorno virtual (¡NUNCA subir venv a GitHub!)
+venv/
+.venv/
+env/
+
+# Caché de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Base de datos local SQLite
+*.db
+*.sqlite3
+
+# Entornos y configs locales
+.env
+.vscode/
